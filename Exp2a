@@ -1,0 +1,3 @@
+import pandas as pd
+d={'roll.no':[309,339,340,341],'name':['parth','shashi','pavani','suwin'],'marks':[50,60,70,80]}
+print(pd.DataFrame(d))
